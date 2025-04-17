@@ -2,7 +2,6 @@
 
 This project demonstrates how various machine learning models and neural networks can be used to predict the likelihood of diabetes based on patient data. The dataset used is the **Pima Indians Diabetes Database**, which contains diagnostic measurements for female patients.
 
----
 
 ## 📁 Project Structure
 
@@ -13,7 +12,6 @@ This project demonstrates how various machine learning models and neural network
 - `huffman.py`: Implementation of Huffman coding for compression.
 - `aritmeticke.py`: Arithmetic encoding and decoding algorithm for lossless data compression.
 
----
 
 ## 📊 Dataset
 
@@ -29,7 +27,6 @@ The dataset (`diabetes.csv`) contains the following features:
 - **Age**
 - **Outcome** (target: 1 = diabetic, 0 = non-diabetic)
 
----
 
 ## ✅ Models Used
 
@@ -58,7 +55,6 @@ The dataset (`diabetes.csv`) contains the following features:
 - Metrics: Accuracy
 - Visualized training history (loss & accuracy over epochs)
 
----
 
 ## 📈 Evaluation Metrics
 
